@@ -1,0 +1,24 @@
+{
+  "name": "node-native-get",
+  "version": "1.0.0",
+  "description": "Nodejs C++ 插件实现 lodash 的 get 方法",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build:dev": "node-gyp -j 16 build --debug",
+    "build": "node-gyp -j 16 build",
+    "clean": "node-gyp clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huruji/node-native-get.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/huruji/node-native-get/issues"
+  },
+  "homepage": "https://github.com/huruji/node-native-get#readme"
+}

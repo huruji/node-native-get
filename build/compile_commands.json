@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/huruji/repos/node-native-get/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/usr/local/include/node -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -std=gnu++14 -o CMakeFiles/node_native_get.dir/index.cpp.o -c /Users/huruji/repos/node-native-get/index.cpp",
+  "file": "/Users/huruji/repos/node-native-get/index.cpp"
+}
+]
