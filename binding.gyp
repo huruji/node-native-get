@@ -2,7 +2,11 @@
   "targets": [{
     "target_name": "get",
     "sources": [
-      "index.cpp"
+      "./src/index.cpp",
+      "./src/add.cpp",
+      "./src/callback.cpp",
+      "./src/object.cpp",
+      "./src/createFunction.cpp"
     ]
   }]
 }

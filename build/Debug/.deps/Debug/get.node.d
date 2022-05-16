@@ -1,1 +1,1 @@
-cmd_Debug/get.node := c++ -bundle -undefined dynamic_lookup -Wl,-no_pie -Wl,-search_paths_first -mmacosx-version-min=10.10 -arch x86_64 -L./Debug -stdlib=libc++  -o Debug/get.node Debug/obj.target/get/index.o 
+cmd_Debug/get.node := c++ -bundle -undefined dynamic_lookup -Wl,-no_pie -Wl,-search_paths_first -mmacosx-version-min=10.10 -arch x86_64 -L./Debug -stdlib=libc++  -o Debug/get.node Debug/obj.target/get/src/index.o Debug/obj.target/get/src/add.o Debug/obj.target/get/src/callback.o Debug/obj.target/get/src/object.o Debug/obj.target/get/src/createFunction.o 

@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(/usr/local/include/node)
 
+aux_source_directory(src DIR_SRCS)
 
 add_executable(node_native_get
-        index.cpp)
+${DIR_SRCS})

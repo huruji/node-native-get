@@ -1,7 +1,32 @@
 [
 {
   "directory": "/Users/huruji/repos/node-native-get/build",
-  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/usr/local/include/node -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -std=gnu++14 -o CMakeFiles/node_native_get.dir/index.cpp.o -c /Users/huruji/repos/node-native-get/index.cpp",
-  "file": "/Users/huruji/repos/node-native-get/index.cpp"
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/usr/local/include/node -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -std=gnu++14 -o CMakeFiles/node_native_get.dir/src/add.cpp.o -c /Users/huruji/repos/node-native-get/src/add.cpp",
+  "file": "/Users/huruji/repos/node-native-get/src/add.cpp"
+},
+{
+  "directory": "/Users/huruji/repos/node-native-get/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/usr/local/include/node -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -std=gnu++14 -o CMakeFiles/node_native_get.dir/src/callback.cpp.o -c /Users/huruji/repos/node-native-get/src/callback.cpp",
+  "file": "/Users/huruji/repos/node-native-get/src/callback.cpp"
+},
+{
+  "directory": "/Users/huruji/repos/node-native-get/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/usr/local/include/node -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -std=gnu++14 -o CMakeFiles/node_native_get.dir/src/createFunction.cpp.o -c /Users/huruji/repos/node-native-get/src/createFunction.cpp",
+  "file": "/Users/huruji/repos/node-native-get/src/createFunction.cpp"
+},
+{
+  "directory": "/Users/huruji/repos/node-native-get/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/usr/local/include/node -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -std=gnu++14 -o CMakeFiles/node_native_get.dir/src/index.cpp.o -c /Users/huruji/repos/node-native-get/src/index.cpp",
+  "file": "/Users/huruji/repos/node-native-get/src/index.cpp"
+},
+{
+  "directory": "/Users/huruji/repos/node-native-get/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/usr/local/include/node -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -std=gnu++14 -o CMakeFiles/node_native_get.dir/src/object.cpp.o -c /Users/huruji/repos/node-native-get/src/object.cpp",
+  "file": "/Users/huruji/repos/node-native-get/src/object.cpp"
+},
+{
+  "directory": "/Users/huruji/repos/node-native-get/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/usr/local/include/node -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -std=gnu++14 -o CMakeFiles/node_native_get.dir/src/util.cpp.o -c /Users/huruji/repos/node-native-get/src/util.cpp",
+  "file": "/Users/huruji/repos/node-native-get/src/util.cpp"
 }
 ]

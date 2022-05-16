@@ -110,7 +110,11 @@ INCS_Release := \
 	-I/Users/huruji/Library/Caches/node-gyp/12.18.0/deps/v8/include
 
 OBJS := \
-	$(obj).target/$(TARGET)/index.o
+	$(obj).target/$(TARGET)/src/index.o \
+	$(obj).target/$(TARGET)/src/add.o \
+	$(obj).target/$(TARGET)/src/callback.o \
+	$(obj).target/$(TARGET)/src/object.o \
+	$(obj).target/$(TARGET)/src/createFunction.o
 
 # Add to the list of files we specially track dependencies for.
 all_deps += $(OBJS)
